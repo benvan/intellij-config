@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="QAPlugComponent">
+    <option name="UPDATE_INTERVAL" value="Daily" />
+    <option name="CHECK_UPDATES" value="true" />
+    <option name="IGNORE_DISABLED_PLUGINS" value="false" />
+    <option name="LAST_EXECUTION" value="1321280176856" />
+    <option name="NEXT_EXECUTION" value="1321366576856" />
+  </component>
+</application>
+

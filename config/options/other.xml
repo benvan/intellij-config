@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AppserversManager">
+    <LibraryTable>
+      <library name="FindTheTestServer">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm_jrmp_stubs.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-es.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/connector-1_5.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/naming-resources.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-fr.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jta-spec1_0_1.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper-el.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/log4j-1.2.16.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/ojdbc-14.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-ha.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/serializer.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/el-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/servlet-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xalan.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-ant.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm-2.0.9.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/naming-factory.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-ja.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-tribes.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/annotations-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/howl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jsp-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm-mod-2.0.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xapool.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-dbcp.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xercesImpl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper-jdt.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-coyote.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/ow_carol.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/commons-logging.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="marketplace-and-dmc">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jotm_jrmp_stubs.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/tomcat-i18n-es.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/connector-1_5.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/naming-resources.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/tomcat-i18n-fr.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jta-spec1_0_1.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jasper-el.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/log4j-1.2.16.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/ojdbc-14.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/catalina-ha.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/serializer.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/el-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/servlet-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/xalan.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/catalina-ant.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jotm-2.0.9.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/naming-factory.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/tomcat-i18n-ja.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/catalina-tribes.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/annotations-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/howl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jsp-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jotm-mod-2.0.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/xapool.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/tomcat-dbcp.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/xercesImpl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jasper-jdt.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/tomcat-coyote.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/ow_carol.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/jasper.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/commons-logging.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc/lib/catalina.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="same-and-wsf">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm_jrmp_stubs.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-es.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/connector-1_5.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/naming-resources.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-fr.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jta-spec1_0_1.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper-el.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/log4j-1.2.16.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/ojdbc-14.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-ha.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/serializer.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/el-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/servlet-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xalan.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-ant.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm-2.0.9.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/naming-factory.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-i18n-ja.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina-tribes.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/annotations-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/howl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jsp-api.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jotm-mod-2.0.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xapool.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-dbcp.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/xercesImpl.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper-jdt.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/tomcat-coyote.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/ow_carol.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/jasper.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/commons-logging.jar!/" />
+          <root url="jar://$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf/lib/catalina.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+    <ServerDK NAME="marketplace-and-dmc">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="$USER_HOME$/dev/apache-tomcat-6.0.18-marketplace-and-dmc" />
+        <option name="CATALINA_BASE" value="" />
+        <option name="VERSION" value="6.0" />
+        <option name="TOM_EE" value="false" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="FindTheTestServer">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf" />
+        <option name="CATALINA_BASE" value="" />
+        <option name="VERSION" value="6.0" />
+        <option name="TOM_EE" value="false" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="same-and-wsf">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="$USER_HOME$/dev/apache-tomcat-6.0.18-same-and-wsf" />
+        <option name="CATALINA_BASE" value="" />
+        <option name="VERSION" value="6.0" />
+        <option name="TOM_EE" value="false" />
+      </DATA>
+    </ServerDK>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (2)" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="1234" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="VALUE_LOOKUP_DELAY" value="700" />
+    <option name="DEBUGGER_TRANSPORT" value="0" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="DISABLE_JIT" value="false" />
+    <option name="HIDE_DEBUGGER_ON_PROCESS_TERMINATION" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CONSTRUCTORS" value="false" />
+    <option name="SKIP_GETTERS" value="false" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateFragment" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="false" />
+    <option name="SHOW_LIBRARY_STACKFRAMES" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="testing" />
+          <item index="1" class="java.lang.String" itemvalue="testcon" />
+          <item index="2" class="java.lang.String" itemvalue="mule-tests" />
+          <item index="3" class="java.lang.String" itemvalue="6" />
+          <item index="4" class="java.lang.String" itemvalue="mvelVersion" />
+          <item index="5" class="java.lang.String" itemvalue="drools" />
+          <item index="6" class="java.lang.String" itemvalue="messaging" />
+          <item index="7" class="java.lang.String" itemvalue="QFoundationContext" />
+          <item index="8" class="java.lang.String" itemvalue="mule-version" />
+          <item index="9" class="java.lang.String" itemvalue="mvel" />
+          <item index="10" class="java.lang.String" itemvalue="REGISTERq" />
+          <item index="11" class="java.lang.String" itemvalue="esb-bore" />
+          <item index="12" class="java.lang.String" itemvalue="3.3.1" />
+          <item index="13" class="java.lang.String" itemvalue="createnew" />
+          <item index="14" class="java.lang.String" itemvalue="ContractExcerptView.css" />
+          <item index="15" class="java.lang.String" itemvalue="formContainer" />
+          <item index="16" class="java.lang.String" itemvalue="isfailure" />
+          <item index="17" class="java.lang.String" itemvalue="are we not using result" />
+          <item index="18" class="java.lang.String" itemvalue="are we not using results" />
+          <item index="19" class="java.lang.String" itemvalue="are we not" />
+          <item index="20" class="java.lang.String" itemvalue="id" />
+          <item index="21" class="java.lang.String" itemvalue="curators" />
+          <item index="22" class="java.lang.String" itemvalue="submissionViewNecessity which is not" />
+          <item index="23" class="java.lang.String" itemvalue="testy" />
+          <item index="24" class="java.lang.String" itemvalue="log4j" />
+          <item index="25" class="java.lang.String" itemvalue="update field_type" />
+          <item index="26" class="java.lang.String" itemvalue="contracttimezone" />
+          <item index="27" class="java.lang.String" itemvalue="effective" />
+          <item index="28" class="java.lang.String" itemvalue="032b661d-c89d-4d65-83bc-27ef57defbd4" />
+          <item index="29" class="java.lang.String" itemvalue="20121211" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="WorkingRisk" />
+          <item index="1" class="java.lang.String" itemvalue="state" />
+          <item index="2" class="java.lang.String" itemvalue="BindRequestRealState" />
+          <item index="3" class="java.lang.String" itemvalue="presentRisk()" />
+          <item index="4" class="java.lang.String" itemvalue="new WorkingRisk(" />
+          <item index="5" class="java.lang.String" itemvalue="PartyIdSet, LeaderTypesSet&gt;" />
+          <item index="6" class="java.lang.String" itemvalue=".noLeaderTypes()" />
+          <item index="7" class="java.lang.String" itemvalue=".addFields" />
+          <item index="8" class="java.lang.String" itemvalue="\0" />
+          <item index="9" class="java.lang.String" itemvalue="$1" />
+          <item index="10" class="java.lang.String" itemvalue="" />
+          <item index="11" class="java.lang.String" itemvalue="&quot;\3-\2-\1&quot;" />
+          <item index="12" class="java.lang.String" itemvalue="\1" />
+          <item index="13" class="java.lang.String" itemvalue="\" />
+          <item index="14" class="java.lang.String" itemvalue="&quot;\$3-\$2-\$1&quot;" />
+          <item index="15" class="java.lang.String" itemvalue="&quot;\$3/\$2/\$1&quot;" />
+          <item index="16" class="java.lang.String" itemvalue="\$3/\$2/\$1" />
+          <item index="17" class="java.lang.String" itemvalue="validator" />
+          <item index="18" class="java.lang.String" itemvalue="\$1" />
+          <item index="19" class="java.lang.String" itemvalue="mocks.partyService" />
+          <item index="20" class="java.lang.String" itemvalue="mocks.processServices.dao" />
+          <item index="21" class="java.lang.String" itemvalue="mocks.processServices.dao." />
+          <item index="22" class="java.lang.String" itemvalue="mocks.processServices.marketDescriptorProvider." />
+          <item index="23" class="java.lang.String" itemvalue="mocks.processServices.contractService." />
+          <item index="24" class="java.lang.String" itemvalue="val (mocks, rdc, executor) = makeWhatever" />
+          <item index="25" class="java.lang.String" itemvalue="].getSimpleName).get" />
+          <item index="26" class="java.lang.String" itemvalue="isOptional" />
+          <item index="27" class="java.lang.String" itemvalue="Iterable" />
+          <item index="28" class="java.lang.String" itemvalue=", LibraryServiceCacheWrappingContext.class" />
+          <item index="29" class="java.lang.String" itemvalue=", CachingContractServiceContext.class, LibraryServiceCacheWrappingContext.class" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/aggregate-services/src/test/java/com/qatarlyst/aggregateservices" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/webapp/js/risk" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind/dao/src/test/java/com/qatarlyst/process/bind/dao" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/dev/dev-apps/jdk1.6.0_31/jre/lib/javaws.jar!/com/sun/javaws/exceptions" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/resources/com/qatarlyst/portal/contract" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/test/java" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/domain/src/test/scala/com/qatarlyst/contract/datatypes" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition-poc/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/service/src/test/java/com/qatarlyst/process/quotation/services" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/database-version-control/src/main/resources/global_platform/create_database" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/service/src/main/scala/com/qatarlyst/contract/service" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/src/main/java/com/qatarlyst/twist/pages" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/dsl/src/main/resources" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind-process/dsl/src/main/resources" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition/rules" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process/control-api/src/main/scala/com/qatarlyst/process/engine" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/validation" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/common/service-core/src/main/java/com/qatarlyst/service/beans" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/info-api/contract-domain/src/main/scala/com/qatarlyst/contract" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/renderers/strategies/components" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/library/loader/src/main/scala/com/qatarlyst/library/loader" />
+          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/component/dropdown" />
+          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/cq-install-plugin/src/main/java/com/sapient/maven/plugins/cq" />
+          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/transport/esb-foundation-api" />
+          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/data/src/main/scala/com/qatarlyst/contract/data" />
+          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/esb/library" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="1" class="java.lang.String" itemvalue="*.php" />
+          <item index="2" class="java.lang.String" itemvalue="*.as" />
+          <item index="3" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="4" class="java.lang.String" itemvalue="*.py" />
+          <item index="5" class="java.lang.String" itemvalue="*.rb" />
+          <item index="6" class="java.lang.String" itemvalue="*.prop*" />
+          <item index="7" class="java.lang.String" itemvalue="*.properties" />
+          <item index="8" class="java.lang.String" itemvalue="*.xmlm" />
+          <item index="9" class="java.lang.String" itemvalue="*.hbm*" />
+          <item index="10" class="java.lang.String" itemvalue="*.spring.xml" />
+          <item index="11" class="java.lang.String" itemvalue="*.spring" />
+          <item index="12" class="java.lang.String" itemvalue="*spring.xml" />
+          <item index="13" class="java.lang.String" itemvalue="*.xml*" />
+          <item index="14" class="java.lang.String" itemvalue="*.hbm" />
+          <item index="15" class="java.lang.String" itemvalue="*.tml" />
+          <item index="16" class="java.lang.String" itemvalue="*.hbm.xml" />
+          <item index="17" class="java.lang.String" itemvalue="changelog.xml" />
+          <item index="18" class="java.lang.String" itemvalue="*.xml" />
+          <item index="19" class="java.lang.String" itemvalue="*.scala" />
+          <item index="20" class="java.lang.String" itemvalue="*.js" />
+          <item index="21" class="java.lang.String" itemvalue="*.java" />
+          <item index="22" class="java.lang.String" itemvalue="*.css" />
+          <item index="23" class="java.lang.String" itemvalue="*.drl" />
+          <item index="24" class="java.lang.String" itemvalue="*.scala,*.java" />
+          <item index="25" class="java.lang.String" itemvalue="pom.sql" />
+          <item index="26" class="java.lang.String" itemvalue="sql" />
+          <item index="27" class="java.lang.String" itemvalue="*.sql" />
+          <item index="28" class="java.lang.String" itemvalue="pom.xml" />
+          <item index="29" class="java.lang.String" itemvalue="*.html" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout>
+      <item key="Width1" value="15" />
+      <item key="Width0" value="26" />
+      <item key="Width2" value="15" />
+    </filtersTableLayout>
+    <propertiesTableLayout>
+      <item key="Width1" value="345" />
+      <item key="Width0" value="346" />
+    </propertiesTableLayout>
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://$USER_HOME$/dev/dev-apps/apache-ant-1.7.1/lib" />
+        </classpath>
+        <homeDir value="$USER_HOME$/dev/dev-apps/apache-ant-1.7.1" />
+        <name value="Apache Ant version 1.7.1" />
+        <version value="1.7.1" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="USE_PROXY_PAC" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="0" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="0" />
+    <option name="CART_SORT_COLUMN_ORDER" value="0" />
+    <available>
+      <option name="myProportion" value="109:70:110:109" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/dev-projects/idea-trunk/marketplace/src/main/resources/exchange-admin_en.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/esb/quotation-process/src/main/app/mule-deploy.properties" separator="\u002e" />
+    <file url="resourceBundle:jar:///home/bene/.m2/repository/org/apache/wicket/wicket-core/1.5.5/wicket-core-1.5.5.jar!/org/apache/wicket/Application" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/resources/failuremessages_en_GB.properties" separator="\u005f" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/esb/market-directory-service/src/main/app/mule-deploy.properties" separator="\u002e" />
+    <file url="resourceBundle:jar:///home/bene/.m2/repository/org/apache/wicket/wicket-core/1.5.5/wicket-core-1.5.5-sources.jar!/org/apache/wicket/Application" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/idea-trunk/marketplace/target/marketplace-3.0-SNAPSHOT/WEB-INF/classes/env/adamd/app.properties" separator="\u005f" />
+    <file url="file://$USER_HOME$/dev-projects/idea-trunk/marketplace/target/marketplace-3.0-SNAPSHOT/WEB-INF/classes/env/server_appdefault.properties" separator="\u005f" />
+    <file url="file://$USER_HOME$/dev-projects/idea-trunk/marketplace/src/main/resources/exchange-risk_en.properties" separator="\u002e" />
+    <file url="resourceBundle:jar:///home/bene/.m2/repository/jexcelapi/jxl/2.4.2/jxl-2.4.2.jar!//functions" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/idea-trunk/marketplace/target/marketplace-3.0-SNAPSHOT/WEB-INF/classes/env/appdefault.properties" separator="\u005f" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/esb/risk-definition-process/src/main/app/mule-deploy.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/components/market-directory/dao/src/test/resources/log4j.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/src/main/resources/twist.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/esb/contract-service/src/main/app/mule-deploy.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev-projects/global-platform/trunk/esb/risk-service/src/main/app/mule-deploy.properties" separator="\u002e" />
+    <file url="jar://$MAVEN_REPOSITORY$/org/mule/mule-core/3.3-M2/mule-core-3.3-M2-sources.jar!/META-INF/services/org/mule/config/mule-exception-codes.properties" separator="\u002e" />
+  </component>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev-projects/global-platform/trunk" />
+        <option value="$USER_HOME$/play/s99" />
+        <option value="$USER_HOME$/play/nomad" />
+        <option value="/tmp/vadimb/vadim" />
+        <option value="$USER_HOME$/play/scala-demo" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v7" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v6" />
+        <option value="$USER_HOME$/play/rnb" />
+        <option value="$USER_HOME$/dev-projects/global-platform/sandbox/benh/dsl-core" />
+        <option value="$USER_HOME$/play/qatarlyst-esb-foundation-boot" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v5" />
+        <option value="$USER_HOME$/dev-projects/acceptance-testing/trunk/twist-tests-with-sahi" />
+        <option value="$USER_HOME$/dev-projects/twist-tests-with-sahi" />
+        <option value="$USER_HOME$/play/GenericInterfaceExtension" />
+        <option value="$USER_HOME$/play/oldScala/scalamvn/artifact/artifact.ipr" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/test" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v4" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v3" />
+        <option value="$USER_HOME$/dev-projects/acceptance-testing/idea.projects" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v1" />
+        <option value="$USER_HOME$/dev-projects/global-platform/idea.project.dir" />
+        <option value="$USER_HOME$/dev-projects/global-platform/trunk/process/dsl" />
+        <option value="$USER_HOME$/dev-projects/global-platform/trunk/contract" />
+        <option value="$USER_HOME$/play/scala-parent-pom" />
+        <option value="$USER_HOME$/dev-projects/trunk/marketplace" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev-projects/global-platform/trunk" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/dev-projects/acceptance-testing/idea.projects" value="" />
+        <entry key="$USER_HOME$/dev-projects/acceptance-testing/trunk/twist-tests-with-sahi" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.project.dir" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v1" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v3" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v4" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v5" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v6" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/ij11_v7" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/idea.projects/test" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/sandbox/benh/dsl-core" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/trunk/contract" value="" />
+        <entry key="$USER_HOME$/dev-projects/global-platform/trunk/process/dsl" value="" />
+        <entry key="$USER_HOME$/dev-projects/twist-tests-with-sahi" value="" />
+        <entry key="$USER_HOME$/play/GenericInterfaceExtension" value="" />
+        <entry key="$USER_HOME$/play/nomad" value="" />
+        <entry key="$USER_HOME$/play/oldScala/scalamvn/artifact/artifact.ipr" value="" />
+        <entry key="$USER_HOME$/play/qatarlyst-esb-foundation-boot" value="" />
+        <entry key="$USER_HOME$/play/rnb" value="" />
+        <entry key="$USER_HOME$/play/s99" value="" />
+        <entry key="$USER_HOME$/play/scala-demo" value="" />
+        <entry key="/tmp/vadimb/vadim" value="" />
+      </map>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev-projects/global-platform/trunk" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INLINE_FIELD_THIS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_COMMENTS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_NON_JAVA" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+  </component>
+  <component name="SbtSettings">
+    <option name="sbtLauncherJarPath" value="$USER_HOME$/.bin/sbt-launch.jar" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="LAST_TEMPLATE" value="Other/Scala Module" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://vc.ri3k.com/repos/ri3k/products/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://vc.ri3k.com/repos/ri3k/products/trunk" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://vc.ri3k.com/repos/ri3k/global-platform/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev-projects/global-platform/trunk" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+    <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="2245ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="8">
+          <item index="0" class="java.lang.String" itemvalue="idea90" />
+          <item index="1" class="java.lang.String" itemvalue="IDEA10EAP" />
+          <item index="2" class="java.lang.String" itemvalue="IDEA10" />
+          <item index="3" class="java.lang.String" itemvalue="IDEA11" />
+          <item index="4" class="java.lang.String" itemvalue="IDEA11EAP" />
+          <item index="5" class="java.lang.String" itemvalue="IDEA11dot1EAP" />
+          <item index="6" class="java.lang.String" itemvalue="ledaEAP" />
+          <item index="7" class="java.lang.String" itemvalue="IDEA12" />
+        </list>
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="3">
+          <item index="0" class="java.lang.String" itemvalue="107.587" />
+          <item index="1" class="java.lang.String" itemvalue="111.167" />
+          <item index="2" class="java.lang.String" itemvalue="123.123" />
+        </list>
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1359628512036" />
+    <option name="LAST_BUILD_CHECKED" value="IU-123.94" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="true" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
+    <option name="IS_PREVIEW_USAGES" value="true" />
+    <option name="IS_SORT_MEMBERS_ALPHABETICALLY" value="false" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.4782369" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/dev-projects/global-platform/trunk">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev-projects/global-platform/trunk" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" PathToXmlBeans="$USER_HOME$/.IntelliJIdea11/system/webservices/xmlbeans-2.3.0" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true" />
+  <component name="XDebuggerSettings">
+    <data-views />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="scala_debugger">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_IN_TOOLBAR" value="true" />
+    <option name="SHOW_IN_MAIN_MENU" value="true" />
+    <option name="OPEN_NEW_TAB" value="false" />
+    <option name="HIGHLIGHT_RESULTS" value="true" />
+    <option name="SHOW_USAGE_VIEW" value="false" />
+    <option name="SEARCH_SCOPE">
+      <value type="PROJECT" />
+    </option>
+    <option name="MATCH_RECURSIVELY" value="false" />
+    <option name="attributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="ffd578" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="contextAttributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="c2ffd4" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="scrollToFirst" value="true" />
+    <option name="bUseContextAtCursor" value="true" />
+    <option name="bHighlightStartTagOnly" value="true" />
+    <option name="bAddErrorStripe" value="true" />
+  </component>
+  <component name="XSLT-Support.Configuration">
+    <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://tapestry.apache.org/schema/tapestry_5_3.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/981cabc4_tapestry_5_3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" location="$USER_HOME$/.IdeaIC11/system/extResources/f02c51ff_hibernate-mapping-3.0.dtd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/5f59e9a1_spring-tool-3.0.xsd" />
+    <resource url="http://git-wip-us.apache.org/repos/asf/wicket/repo?p=wicket.git;a=blob_plain;f=wicket-core/src/main/resources/META-INF/wicket-1.5.xsd;hb=master" location="$USER_HOME$/.IdeaIC11/system/extResources/c59ad29a_wicket-1.5.xsd;hb=master.xml" />
+    <resource url="http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" location="$USER_HOME$/.IntelliJIdea11/system/extResources/8ec6b4f6_hibernate-mapping-3.0.dtd" />
+    <resource url="http://www.mulesource.org/schema/mule/jersey/3.2/mule-jersey.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/9a05b214_mule-jersey.xsd" />
+    <resource url="http://www.mulesoft.org/schema/mule/core/3.2/mule.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/2d1dac7f_mule.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/.IdeaIC11/system/extResources/221b8939_spring-tx-3.0.xsd" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+</application>
+

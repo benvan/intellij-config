@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="output">
+  <template name="serrv" value="System.err.println(&quot;$EXPR_COPY$ = &quot; + $EXPR$);" description="Prints a value to System.out" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="ASPECTJ" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
+

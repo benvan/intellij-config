@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Inject Language" />
+    <ignoreAction name="String Conversion" />
+    <ignoreAction name="Pattern Matching" />
+    <ignoreAction name="Annotations/Annotate overriding methods and their parameters" />
+    <ignoreAction name="Control Flow/Add Annotation" />
+  </component>
+</application>
+

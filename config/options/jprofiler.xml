@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="TemplateCache" checksum="1318328571079">
+    <jvm name="$USER_HOME$/dev/dev-apps/jdk1.6.0_31">
+      <entry key="T1" value="-agentpath:/home/bene/dev/dev-apps/jprofiler7/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+      <entry key="T2" value="-Xint -agentpath:/home/bene/dev/dev-apps/jprofiler7/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+      <entry key="T3" value="-agentpath:/home/bene/dev/dev-apps/jprofiler7/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+      <entry key="T4" value="-Xint -agentpath:/home/bene/dev/dev-apps/jprofiler7/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+    </jvm>
+  </component>
+</application>
+

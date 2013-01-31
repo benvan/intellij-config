@@ -1,0 +1,5 @@
+system
+config/idea*.key
+config/tasks
+config/plugins
+config/componentVersions

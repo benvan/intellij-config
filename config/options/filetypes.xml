@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.iml;.gitignore;target;" />
+    <extensionMap>
+      <mapping ext="json" type="JavaScript files" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="containerrequestfilter" type="PLAIN_TEXT" />
+      <mapping pattern="create_risk_node_leader_type_map" type="SQL files" />
+      <mapping ext="tml" type="XHTML" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;vssver.scc;vssver2.scc;*.rbc;target;*.iml;" />
+    <extensionMap>
+      <mapping ext="astub" type="JAVA" />
+      <mapping ext="xlsx" type="Native" />
+      <mapping pattern="success" type="PLAIN_TEXT" />
+      <mapping pattern="logfailure" type="PLAIN_TEXT" />
+      <mapping pattern="logsuccess" type="PLAIN_TEXT" />
+      <mapping pattern="failure" type="PLAIN_TEXT" />
+      <mapping ext="scn" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
+      <mapping pattern="create_format_and_validation_tables" type="SQL" />
+      <mapping ext="xmlm" type="XML" />
+    </extensionMap>
+  </component>
+</application>
+

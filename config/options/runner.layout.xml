@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="JavaRunner.JAVAEE_CONSOLE">
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-14.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="15" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-06.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="7" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-14.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="14" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Output" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="16" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-03.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-05.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="6" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-12.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="12" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-05.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="5" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-09-29.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-12.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="11" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="17" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-13.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="13" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/marketplace-and-dmc_marketplace/logs/localhost.2011-10-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="18" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-04.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="4" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-07.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="9" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_ri3k-build/logs/localhost.2011-09-27.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_marketplace/logs/localhost.2011-10-10.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="10" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="$USER_HOME$/.IntelliJIdea10/system/tomcat/Unnamed_idea-trunk/logs/localhost.2011-10-07.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="8" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Deployment" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" value="Server" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.17450766" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="1" />
+        <option name="displayName" />
+        <option name="index" value="1" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="2" />
+        <option name="displayName" />
+        <option name="index" value="2" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="3" />
+        <option name="displayName" />
+        <option name="index" value="3" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="4" />
+        <option name="displayName" />
+        <option name="index" value="4" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="5" />
+        <option name="displayName" />
+        <option name="index" value="5" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="6" />
+        <option name="displayName" />
+        <option name="index" value="6" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="7" />
+        <option name="displayName" />
+        <option name="index" value="7" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="8" />
+        <option name="displayName" />
+        <option name="index" value="8" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="9" />
+        <option name="displayName" />
+        <option name="index" value="9" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="10" />
+        <option name="displayName" />
+        <option name="index" value="10" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="11" />
+        <option name="displayName" />
+        <option name="index" value="11" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="12" />
+        <option name="displayName" />
+        <option name="index" value="12" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="13" />
+        <option name="displayName" />
+        <option name="index" value="13" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="14" />
+        <option name="displayName" />
+        <option name="index" value="14" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="15" />
+        <option name="displayName" />
+        <option name="index" value="15" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="16" />
+        <option name="displayName" />
+        <option name="index" value="16" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="17" />
+        <option name="displayName" />
+        <option name="index" value="17" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="18" />
+        <option name="displayName" />
+        <option name="index" value="18" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="JavaDebugger">
+      <ViewImpl>
+        <option name="ID" value="WatchesContent" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="right" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="FrameContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="VariablesContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ThreadsContent" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" value="Debugger" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.16847827" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.7201087" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="1" />
+        <option name="displayName" />
+        <option name="index" value="1" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="Diff">
+      <ViewImpl>
+        <option name="ID" value="Contents" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="FICTIVE_KEY" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="1" />
+        <option name="displayName" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="GlobalPlatformDB">
+      <ViewImpl>
+        <option name="ID" value="Parameters" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="right" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" value="Database Console" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.19868277" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="Data Source">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" value="Database Console" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+    <runner id="global_platform">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.5" />
+        <option name="centerDetached" value="false" />
+        <option name="defaultIndex" value="0" />
+        <option name="displayName" value="Database Console" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+  </component>
+</application>
+

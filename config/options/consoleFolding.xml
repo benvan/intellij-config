@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[ERROR] java.JavaSerializer Error serializing object class com.qatarlyst.portal.Dashboard [object=[Page class = com.qatarlyst.portal.Dashboard, id = 21, render count = 1]]" />
+        <option value="org.apache.wicket.util.io.SerializableChecker" />
+        <option value="" />
+        <option value="\t" />
+      </list>
+    </option>
+  </component>
+</application>
+
