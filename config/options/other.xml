@@ -279,7 +279,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="false" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
     <option name="PRESERVE_CASE_REPLACE" value="false" />
-    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="COMMENTS_ONLY" value="false" />
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
@@ -287,40 +287,40 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" />
+    <option name="FILE_MASK" value="*.css" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="testing" />
-          <item index="1" class="java.lang.String" itemvalue="testcon" />
-          <item index="2" class="java.lang.String" itemvalue="mule-tests" />
-          <item index="3" class="java.lang.String" itemvalue="6" />
-          <item index="4" class="java.lang.String" itemvalue="mvelVersion" />
-          <item index="5" class="java.lang.String" itemvalue="drools" />
-          <item index="6" class="java.lang.String" itemvalue="messaging" />
-          <item index="7" class="java.lang.String" itemvalue="QFoundationContext" />
-          <item index="8" class="java.lang.String" itemvalue="mule-version" />
-          <item index="9" class="java.lang.String" itemvalue="mvel" />
-          <item index="10" class="java.lang.String" itemvalue="REGISTERq" />
-          <item index="11" class="java.lang.String" itemvalue="esb-bore" />
-          <item index="12" class="java.lang.String" itemvalue="3.3.1" />
-          <item index="13" class="java.lang.String" itemvalue="createnew" />
-          <item index="14" class="java.lang.String" itemvalue="ContractExcerptView.css" />
-          <item index="15" class="java.lang.String" itemvalue="formContainer" />
-          <item index="16" class="java.lang.String" itemvalue="isfailure" />
-          <item index="17" class="java.lang.String" itemvalue="are we not using result" />
-          <item index="18" class="java.lang.String" itemvalue="are we not using results" />
-          <item index="19" class="java.lang.String" itemvalue="are we not" />
-          <item index="20" class="java.lang.String" itemvalue="id" />
-          <item index="21" class="java.lang.String" itemvalue="curators" />
-          <item index="22" class="java.lang.String" itemvalue="submissionViewNecessity which is not" />
-          <item index="23" class="java.lang.String" itemvalue="testy" />
-          <item index="24" class="java.lang.String" itemvalue="log4j" />
-          <item index="25" class="java.lang.String" itemvalue="update field_type" />
-          <item index="26" class="java.lang.String" itemvalue="contracttimezone" />
-          <item index="27" class="java.lang.String" itemvalue="effective" />
-          <item index="28" class="java.lang.String" itemvalue="032b661d-c89d-4d65-83bc-27ef57defbd4" />
-          <item index="29" class="java.lang.String" itemvalue="20121211" />
+          <item index="0" class="java.lang.String" itemvalue="id" />
+          <item index="1" class="java.lang.String" itemvalue="curators" />
+          <item index="2" class="java.lang.String" itemvalue="submissionViewNecessity which is not" />
+          <item index="3" class="java.lang.String" itemvalue="testy" />
+          <item index="4" class="java.lang.String" itemvalue="log4j" />
+          <item index="5" class="java.lang.String" itemvalue="update field_type" />
+          <item index="6" class="java.lang.String" itemvalue="contracttimezone" />
+          <item index="7" class="java.lang.String" itemvalue="effective" />
+          <item index="8" class="java.lang.String" itemvalue="032b661d-c89d-4d65-83bc-27ef57defbd4" />
+          <item index="9" class="java.lang.String" itemvalue="20121211" />
+          <item index="10" class="java.lang.String" itemvalue="successfully sent to" />
+          <item index="11" class="java.lang.String" itemvalue="Edit request quote" />
+          <item index="12" class="java.lang.String" itemvalue="CreateBindRequestInput" />
+          <item index="13" class="java.lang.String" itemvalue="deleteDocumentLink" />
+          <item index="14" class="java.lang.String" itemvalue="Risk name" />
+          <item index="15" class="java.lang.String" itemvalue="subInf" />
+          <item index="16" class="java.lang.String" itemvalue="programmeOrRiskNameLabel" />
+          <item index="17" class="java.lang.String" itemvalue="riskHeader" />
+          <item index="18" class="java.lang.String" itemvalue="getRequestCycle().setResponsePage(RiskPage.class, getPage().getPageParameters());" />
+          <item index="19" class="java.lang.String" itemvalue="session-timeout" />
+          <item index="20" class="java.lang.String" itemvalue="subInfo" />
+          <item index="21" class="java.lang.String" itemvalue="modalHeader" />
+          <item index="22" class="java.lang.String" itemvalue="sub" />
+          <item index="23" class="java.lang.String" itemvalue="Drag files here" />
+          <item index="24" class="java.lang.String" itemvalue="fileRowTemplate" />
+          <item index="25" class="java.lang.String" itemvalue="Set Permissions" />
+          <item index="26" class="java.lang.String" itemvalue="saveUploadedFileDetailsButton" />
+          <item index="27" class="java.lang.String" itemvalue="target" />
+          <item index="28" class="java.lang.String" itemvalue="messagesBlock" />
+          <item index="29" class="java.lang.String" itemvalue=".message" />
         </list>
       </value>
     </option>
@@ -363,36 +363,36 @@
     <option name="RECENT_DIR_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract" />
-          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/aggregate-services/src/test/java/com/qatarlyst/aggregateservices" />
-          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/webapp/js/risk" />
-          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind/dao/src/test/java/com/qatarlyst/process/bind/dao" />
-          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/dev/dev-apps/jdk1.6.0_31/jre/lib/javaws.jar!/com/sun/javaws/exceptions" />
-          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/" />
-          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/resources/com/qatarlyst/portal/contract" />
-          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/test/java" />
-          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/domain/src/test/scala/com/qatarlyst/contract/datatypes" />
-          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition-poc/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition" />
-          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/service/src/test/java/com/qatarlyst/process/quotation/services" />
-          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/database-version-control/src/main/resources/global_platform/create_database" />
-          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/service/src/main/scala/com/qatarlyst/contract/service" />
-          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/src/main/java/com/qatarlyst/twist/pages" />
-          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/dsl/src/main/resources" />
-          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind-process/dsl/src/main/resources" />
-          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition/rules" />
-          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process/control-api/src/main/scala/com/qatarlyst/process/engine" />
-          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal" />
-          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/" />
-          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/validation" />
-          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/common/service-core/src/main/java/com/qatarlyst/service/beans" />
-          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/info-api/contract-domain/src/main/scala/com/qatarlyst/contract" />
-          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/renderers/strategies/components" />
-          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/library/loader/src/main/scala/com/qatarlyst/library/loader" />
-          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/component/dropdown" />
-          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/cq-install-plugin/src/main/java/com/sapient/maven/plugins/cq" />
-          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/transport/esb-foundation-api" />
-          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/data/src/main/scala/com/qatarlyst/contract/data" />
-          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/esb/library" />
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/aggregate-services/src/test/java/com/qatarlyst/aggregateservices" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/webapp/js/risk" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind/dao/src/test/java/com/qatarlyst/process/bind/dao" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/dev/dev-apps/jdk1.6.0_31/jre/lib/javaws.jar!/com/sun/javaws/exceptions" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/resources/com/qatarlyst/portal/contract" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/test/java" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/domain/src/test/scala/com/qatarlyst/contract/datatypes" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition-poc/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/service/src/test/java/com/qatarlyst/process/quotation/services" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/database-version-control/src/main/resources/global_platform/create_database" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/service/src/main/scala/com/qatarlyst/contract/service" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/src/main/java/com/qatarlyst/twist/pages" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/quotation/dsl/src/main/resources" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/bind-process/dsl/src/main/resources" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process-components/risk-definition/dsl/src/test/scala/com/qatarlyst/process/newriskdefinition/rules" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/process/control-api/src/main/scala/com/qatarlyst/process/engine" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/twist-tests-global-platform/" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/validation" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/common/service-core/src/main/java/com/qatarlyst/service/beans" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/info-api/contract-domain/src/main/scala/com/qatarlyst/contract" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/contract/rework/renderers/strategies/components" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/library/loader/src/main/scala/com/qatarlyst/library/loader" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/component/dropdown" />
+          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/cq-install-plugin/src/main/java/com/sapient/maven/plugins/cq" />
+          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/transport/esb-foundation-api" />
+          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/components/contract/data/src/main/scala/com/qatarlyst/contract/data" />
+          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/esb/library" />
+          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/dev-projects/global-platform/trunk/portal/src/main/java/com/qatarlyst/portal/pages/risk/messages" />
         </list>
       </value>
     </option>
@@ -421,14 +421,14 @@
           <item index="19" class="java.lang.String" itemvalue="*.scala" />
           <item index="20" class="java.lang.String" itemvalue="*.js" />
           <item index="21" class="java.lang.String" itemvalue="*.java" />
-          <item index="22" class="java.lang.String" itemvalue="*.css" />
-          <item index="23" class="java.lang.String" itemvalue="*.drl" />
-          <item index="24" class="java.lang.String" itemvalue="*.scala,*.java" />
-          <item index="25" class="java.lang.String" itemvalue="pom.sql" />
-          <item index="26" class="java.lang.String" itemvalue="sql" />
-          <item index="27" class="java.lang.String" itemvalue="*.sql" />
-          <item index="28" class="java.lang.String" itemvalue="pom.xml" />
-          <item index="29" class="java.lang.String" itemvalue="*.html" />
+          <item index="22" class="java.lang.String" itemvalue="*.drl" />
+          <item index="23" class="java.lang.String" itemvalue="*.scala,*.java" />
+          <item index="24" class="java.lang.String" itemvalue="pom.sql" />
+          <item index="25" class="java.lang.String" itemvalue="sql" />
+          <item index="26" class="java.lang.String" itemvalue="*.sql" />
+          <item index="27" class="java.lang.String" itemvalue="pom.xml" />
+          <item index="28" class="java.lang.String" itemvalue="*.html" />
+          <item index="29" class="java.lang.String" itemvalue="*.css" />
         </list>
       </value>
     </option>
@@ -456,7 +456,7 @@
   </component>
   <component name="HttpConfigurable">
     <option name="USE_HTTP_PROXY" value="false" />
-    <option name="USE_PROXY_PAC" value="false" />
+    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="" />
     <option name="PROXY_PORT" value="80" />
     <option name="PROXY_AUTHENTICATION" value="false" />
@@ -669,15 +669,16 @@
     </option>
     <option name="myIgnoredBuildNumbers">
       <value>
-        <list size="3">
+        <list size="4">
           <item index="0" class="java.lang.String" itemvalue="107.587" />
           <item index="1" class="java.lang.String" itemvalue="111.167" />
           <item index="2" class="java.lang.String" itemvalue="123.123" />
+          <item index="3" class="java.lang.String" itemvalue="123.155" />
         </list>
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1359628512036" />
+    <option name="LAST_TIME_CHECKED" value="1360233299453" />
     <option name="LAST_BUILD_CHECKED" value="IU-123.94" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -686,7 +687,7 @@
     <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
     <option name="IS_PREVIEW_USAGES" value="true" />
     <option name="IS_SORT_MEMBERS_ALPHABETICALLY" value="false" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.4782369" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.47823673" />
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
   </component>
@@ -755,15 +756,19 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <resource url="http://tapestry.apache.org/schema/tapestry_5_3.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/981cabc4_tapestry_5_3.xsd" />
     <resource url="http://www.springframework.org/schema/context/spring-context-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/1db4f4cf_spring-context-3.0.xsd" />
     <resource url="http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" location="$USER_HOME$/.IdeaIC11/system/extResources/f02c51ff_hibernate-mapping-3.0.dtd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/5f59e9a1_spring-tool-3.0.xsd" />
+    <resource url="http://www.mulesource.org/schema/mule/jersey/3.2/mule-jersey.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/9a05b214_mule-jersey.xsd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent" location="$USER_HOME$/.IntelliJIdea12/system/extResources/ec45f7b8_xhtml-lat1.ent" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent" location="$USER_HOME$/.IntelliJIdea12/system/extResources/88bee14d_xhtml-special.ent" />
+    <resource url="http://tapestry.apache.org/schema/tapestry_5_3.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/981cabc4_tapestry_5_3.xsd" />
     <resource url="http://git-wip-us.apache.org/repos/asf/wicket/repo?p=wicket.git;a=blob_plain;f=wicket-core/src/main/resources/META-INF/wicket-1.5.xsd;hb=master" location="$USER_HOME$/.IdeaIC11/system/extResources/c59ad29a_wicket-1.5.xsd;hb=master.xml" />
     <resource url="http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" location="$USER_HOME$/.IntelliJIdea11/system/extResources/8ec6b4f6_hibernate-mapping-3.0.dtd" />
-    <resource url="http://www.mulesource.org/schema/mule/jersey/3.2/mule-jersey.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/9a05b214_mule-jersey.xsd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent" location="$USER_HOME$/.IntelliJIdea12/system/extResources/3f2ce99e_xhtml-symbol.ent" />
+    <resource url="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd" location="$USER_HOME$/.IntelliJIdea12/system/extResources/8f242232_wicket-xhtml1.4-strict.dtd" />
     <resource url="http://www.mulesoft.org/schema/mule/core/3.2/mule.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/2d1dac7f_mule.xsd" />
-    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/.IdeaIC11/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
     <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/.IdeaIC11/system/extResources/221b8939_spring-tx-3.0.xsd" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />

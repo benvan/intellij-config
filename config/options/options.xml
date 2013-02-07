@@ -18,7 +18,7 @@
     <location key="#Jetty_Server.1920.0.1920.1080" x="2288" y="340" />
     <location key="ActivateTaskDialog.0.0.1920.1080" x="754" y="466" />
     <location key="com.intellij.javaee.module.view.dataSource.DataSourcePropertiesDialog.0.0.1920.1080" x="536" y="136" />
-    <location key="CommitChangelistDialog.1920.0.1920.1080" x="2193" y="294" />
+    <location key="CommitChangelistDialog.1920.0.1920.1080" x="2195" y="296" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080" x="2641" y="370" />
     <location key="RollbackChangesDialog.0.0.1920.1080" x="2574" y="288" />
     <location key="antBuildFilePropertiesDialogDimension.0.0.1920.1080" x="2330" y="294" />
@@ -75,7 +75,7 @@
     <location key="#IvyIDEA.0.0.1920.1080" x="526" y="284" />
     <location key="git4idea.rebase.GitRebaseEditor.1920.0.1920.1080" x="2609" y="303" />
     <location key="#Notifications.1920.0.1920.1080" x="798" y="373" />
-    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2437" y="358" />
+    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2443" y="364" />
     <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.1920.1080" x="719" y="224" />
     <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" x="2530" y="294" />
     <location key="NewModule_or_Project.wizard.1920.0.1920.1080" x="2194" y="223" />
@@ -102,7 +102,7 @@
     <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.1920.0.1920.1080" x="2325" y="321" />
     <location key="#Menus_and_Toolbars.1920.0.1920.1080" x="2699" y="314" />
     <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="2585" y="242" />
-    <location key="VCS.ChangeListViewerDialog.1920.0.1920.1080" x="2813" y="290" />
+    <location key="VCS.ChangeListViewerDialog.1920.0.1920.1080" x="2817" y="294" />
     <location key="svn.upgradeDialog" x="2658" y="372" />
     <location key="#Resources.0.0.1920.1080" x="2514" y="299" />
     <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1920.1080" x="2631" y="432" />
@@ -120,19 +120,19 @@
     <location key="svn.propertyDialog.1920.0.1920.1080" x="2752" y="392" />
     <location key="#ScenarioExecutorAntMain.0.0.1920.1080" x="753" y="220" />
     <location key="svn.sslDialog.0.0.1920.1080" x="2645" y="444" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" x="2731" y="535" />
-    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2515" y="373" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" x="2733" y="537" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2517" y="375" />
     <location key="GridCell.Tab.-1.bottom.1920.0.1920.1080" x="54" y="241" />
     <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.1920.0.1920.1080" x="1922" y="262" />
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.tree.BreakpointMasterDetailPopupBuilder.1920.0.1920.1080" x="2119" y="197" />
     <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080" x="2868" y="352" />
     <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1920.1080" x="958" y="234" />
     <location key="DiffWindow.1920.0.1920.1080" x="1920" y="15" />
-    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="3001" y="595" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="3003" y="595" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="1997" y="132" />
     <location key="com.intellij.persistence.database.console.JdbcConsolePropertiesDialog.1920.0.1920.1080" x="2643" y="447" />
     <location key="#Scopes.0.0.1920.1080" x="868" y="177" />
-    <location key="WELCOME_SCREEN" x="2404" y="530" />
+    <location key="WELCOME_SCREEN" x="2376" y="530" />
     <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.1920.0.1920.1080" x="2425" y="332" />
     <location key="RegExHelpPopup" x="2645" y="283" />
     <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.1920.0.1920.1080" x="2741" y="411" />
@@ -149,7 +149,7 @@
     <location key="Maven.ArtifactSearchDialog.0.0.1920.1080" x="680" y="194" />
     <location key="ProcessPopupWindow" x="2429" y="2" />
     <location key="com.intellij.history.integration.ui.views.RecentChangeDialog.1920.0.1920.1080" x="1920" y="15" />
-    <location key="chooseDestDirectoryDialog.1920.0.1920.1080" x="2793" y="489" />
+    <location key="chooseDestDirectoryDialog.1920.0.1920.1080" x="2795" y="491" />
     <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.1920.1080" x="2706" y="308" />
     <location key="GridCell.Tab.1.bottom.1920.0.1920.1080" x="53" y="240" />
     <location key="git4idea.push.GitPushDialog.1920.0.1920.1080" x="2131" y="182" />
@@ -163,7 +163,7 @@
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="678" y="312" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1920.0.1920.1080" x="1971" y="299" />
     <location key="Maven.ArtifactSearchDialog.1920.0.1920.1080" x="2359" y="216" />
-    <location key="RollbackChangesDialog.1920.0.1920.1080" x="2494" y="369" />
+    <location key="RollbackChangesDialog.1920.0.1920.1080" x="2496" y="371" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1920.0.1920.1080" x="2701" y="473" />
     <location key="DiffWindow.0.0.1920.1080" x="151" y="128" />
     <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1920.1080" x="2457" y="317" />
@@ -198,11 +198,11 @@
     <location key="svn.passwordDialog" x="2642" y="446" />
     <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.1920.0.1920.1080" x="2664" y="439" />
     <location key="com.intellij.persistence.run.ColumnFilterDialog.1920.0.1920.1080" x="2653" y="317" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2169" y="186" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2269" y="278" />
     <location key="IgnoreUnversionedDialog.1920.0.1920.1080" x="2714" y="457" />
     <location key="#com.intellij.ide.actionMacro.EditMacrosDialog.1920.0.1920.1080" x="2762" y="573" />
     <location key="#Project_Structure.1920.0.1920.1080" x="2162" y="132" />
-    <location key="ProcessPopupWindow.1920.0.1920.1080" x="2352" y="428" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080" x="2358" y="400" />
     <location key="EditParametersPopupWindow.1920.0.1920.1080" x="2381" y="571" />
     <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" x="2019" y="124" />
     <location key="svn.sslDialog.1920.0.1920.1080" x="2666" y="467" />
@@ -215,17 +215,17 @@
     <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2556" y="354" />
     <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080" x="2631" y="427" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="2741" y="416" />
-    <location key="findTextDialog.1920.0.1920.1080" x="2503" y="550" />
+    <location key="findTextDialog.1920.0.1920.1080" x="2547" y="594" />
     <location key="#All_in_endorsement-tests.1920.0.1920.1080" x="2229" y="239" />
     <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.1920.0.1920.1080" x="2744" y="453" />
     <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1920.1080" x="398" y="259" />
     <location key="#App.0.0.1920.1080" x="629" y="273" />
     <location key="#File_Templates.0.0.1920.1080" x="753" y="389" />
-    <location key="OptionsEditor.1920.0.1920.1080" x="2228" y="158" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="2518" y="128" />
     <location key="svn.passwordDialog.0.0.1920.1080" x="2620" y="447" />
     <location key="sql.DataSourcePropertiesDialog.1920.0.1920.1080" x="2744" y="393" />
     <size key="#com.intellij.ide.util.ExportDialog.1920.0.1920.1080" width="1000" height="316" />
-    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1092" height="289" />
     <size key="com.intellij.javaee.module.view.dataSource.DataSourcePropertiesDialog.1920.0.1920.1080" width="847" height="622" />
     <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.EvaluationPanel.1920.0.1920.1080" width="869" height="229" />
     <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" width="526" height="485" />
@@ -275,7 +275,7 @@
     <size key="#Project_Structure.0.0.1920.1080" width="1494" height="858" />
     <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1920.1080" width="615" height="408" />
     <size key="chooseDestDirectoryDialog.0.0.1920.1080" width="809" height="516" />
-    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1092" height="289" />
     <size key="DiffWindow" width="1244" height="1061" />
     <size key="#com.intellij.debugger.ui.EvaluationDialog2.1920.0.1920.1080" width="893" height="449" />
     <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" width="623" height="585" />
@@ -320,7 +320,7 @@
     <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="924" height="682" />
     <size key="javadoc.popup.1920.0.1920.1080" width="962" height="340" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1092" height="287" />
-    <size key="ProcessPopupWindow.1920.0.1920.1080" width="752" height="104" />
+    <size key="ProcessPopupWindow.1920.0.1920.1080" width="1152" height="265" />
     <size key="EditParametersPopupWindow.1920.0.1920.1080" width="1170" height="378" />
     <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" width="1722" height="833" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="446" height="541" />
@@ -329,7 +329,7 @@
     <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.StatementEditor.1920.0.1920.1080" width="869" height="132" />
     <size key="CommitChangelistDialog.0.0.1920.1080" width="1152" height="718" />
     <size key="#ScenarioExecutorAntMain.0.0.1920.1080" width="919" height="644" />
-    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1092" height="289" />
     <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" width="543" height="286" />
     <size key="GridCell.Tab.-1.center.1920.0.1920.1080" width="1840" height="372" />
     <size key="EditParametersPopupWindow.0.0.1920.1080" width="1214" height="688" />
@@ -342,12 +342,12 @@
     <size key="GotoFile_FileTypePopup.0.0.1920.1080" width="215" height="200" />
     <size key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.1920.0.1920.1080" width="593" height="342" />
     <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1920.1080" width="929" height="651" />
-    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1092" height="289" />
     <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1920.1080" width="1365" height="552" />
     <size key="DiffWindow.1920.0.1920.1080" width="1920" height="1065" />
     <size key="GridCell.Tab.3.right.1920.0.1920.1080" width="1872" height="333" />
     <size key="#File_Templates.0.0.1920.1080" width="432" height="390" />
-    <size key="OptionsEditor.1920.0.1920.1080" width="1310" height="796" />
+    <size key="OptionsEditor.1920.0.1920.1080" width="1298" height="739" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="321" />
     <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
@@ -372,22 +372,22 @@
     <property name="JUnitSupport.hidePassedTests" value="true" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
     <property name="ScalaSupport.hidePassedTests" value="false" />
-    <property name="junit_statistics_table_columnsWidth5" value="53" />
+    <property name="junit_statistics_table_columnsWidth5" value="35" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="javaee.appServer.lastUsedServer" value="marketplace-and-dmc" />
-    <property name="file.colors.enable.non.project" value="ffffe4" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
     <property name="JUnitSupport.scrollToStackTrace" value="true" />
     <property name="project.jdk.splitter" value="0.20000002" />
     <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
-    <property name="junit_statistics_table_columnsWidth4" value="54" />
-    <property name="junit_statistics_table_columnsWidth3" value="53" />
-    <property name="junit_statistics_table_columnsWidth2" value="54" />
-    <property name="junit_statistics_table_columnsWidth1" value="54" />
-    <property name="junit_statistics_table_columnsWidth0" value="54" />
+    <property name="junit_statistics_table_columnsWidth4" value="36" />
+    <property name="junit_statistics_table_columnsWidth3" value="35" />
+    <property name="junit_statistics_table_columnsWidth2" value="36" />
+    <property name="junit_statistics_table_columnsWidth1" value="36" />
+    <property name="junit_statistics_table_columnsWidth0" value="36" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="Implemented Method Body" />
@@ -441,7 +441,7 @@
     <property name="test_tree_console_proprtion" value="0.28789532" />
     <property name="junit_statistics_table_columnsOrder5" value="5" />
     <property name="LayoutCode.optimizeImports" value="false" />
-    <property name="ColorChooser.RecentColors" value="244-222-214-158,,,255-233-225-255,,,244-98-66-255,,,211-35-18-255,,,230-210-139-255,,,141-137-132-255,,,110-106-101-255,,,56-61-72-255,,,59-69-82-255,,,83-94-205-255,,,87-136-205-255,,,65-205-61-255,,,25-128-45-255,,,126-66-110-255,,,23-157-187-255,,,187-50-105-255,,,62-132-93-255,,,43-132-116-255,,,68-179-115-255,,,44-179-85-255" />
+    <property name="ColorChooser.RecentColors" value="211-35-18-255,,,230-210-139-255,,,141-137-132-255,,,110-106-101-255,,,56-61-72-255,,,59-69-82-255,,,83-94-205-255,,,87-136-205-255,,,65-205-61-255,,,25-128-45-255,,,126-66-110-255,,,23-157-187-255,,,187-50-105-255,,,62-132-93-255,,,43-132-116-255,,,68-179-115-255,,,44-179-85-255,,,204-120-50-255,,,87-158-176-255,,,137-255-107-255" />
   </component>
 </application>
 

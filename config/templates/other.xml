@@ -3,21 +3,21 @@
   <template name="logger" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);" description="Creates local logger for class" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="fn" value="new Function&lt;$A$,$B$&gt;(){&#10;    @Override public $B$ apply(final $A$ input){&#10;        $END$&#10;    }&#10;}" description="insert guava function" toReformat="false" toShortenFQNames="true">
     <variable name="A" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="B" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

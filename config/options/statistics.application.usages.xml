@@ -2,21 +2,21 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="global-platform-build" values="JBoss jBPM 5.x,spring-mvc,Drools,spring,JAX-RS,hibernate" />
-      <project id="vadim" values="hibernate,spring" />
+      <project id="global-platform-build" values="Drools,hibernate,spring-mvc,JBoss jBPM 5.x,JAX-RS,spring" />
+      <project id="vadim" values="spring,hibernate" />
       <project id="test" values="groovy" />
     </group>
     <group name="language-level">
       <project id="scala-demo" values="JDK_1_6" />
-      <project id="test" values="JDK_1_5,JDK_1_6" />
-      <project id="contract" values=" etc.,5.0 -  enum  keyword, autoboxing" />
+      <project id="test" values="JDK_1_6,JDK_1_5" />
+      <project id="contract" values=" autoboxing, etc.,5.0 -  enum  keyword" />
       <project id="twist-tests-with-sahi" values="JDK_1_5,JDK_1_6" />
       <project id="s99" values="JDK_1_6" />
       <project id="dsl-core" values="JDK_1_6,JDK_1_5" />
-      <project id="global-platform-build" values="JDK_1_5,JDK_1_6" />
-      <project id="process-dsl" values=" etc.,5.0 -  enum  keyword, autoboxing" />
+      <project id="global-platform-build" values="JDK_1_6,JDK_1_5" />
+      <project id="process-dsl" values="5.0 -  enum  keyword, autoboxing, etc." />
       <project id="artifact" values="JDK_1_5" />
-      <project id="vadim" values="JDK_1_5,JDK_1_6" />
+      <project id="vadim" values="JDK_1_6,JDK_1_5" />
       <project id="GenericInterfaceExtension" values="JDK_1_5" />
       <project id="rnb" values="JDK_1_5" />
       <project id="mule-module-qatarlystesbfoundationboot" values="JDK_1_6" />
@@ -35,7 +35,7 @@
       <project id="risk-definition-domain" values="svn" />
       <project id="twist-eval" values="svn" />
       <project id="twist-tests-with-selenium" values="svn" />
-      <project id="global-platform-build" values="Git" />
+      <project id="global-platform-build" values="Git,svn" />
       <project id="process-dsl" values="svn" />
       <project id="trunk" values="svn" />
       <project id="vadim" values="svn" />
@@ -48,7 +48,7 @@
       <project id="ri3k-build" values="web" />
       <project id="s99" values="scala" />
       <project id="dsl-core" values="scala" />
-      <project id="global-platform" values="Spring,scala" />
+      <project id="global-platform" values="scala,Spring" />
       <project id="same" values="web" />
       <project id="risk-definition-domain" values="scala" />
       <project id="process-dsl" values="scala" />
@@ -57,14 +57,14 @@
       <project id="system3" values="web" />
       <project id="vadim" values="web,scala" />
       <project id="mule-module-qatarlystesbfoundationboot" values="scala" />
-      <project id="marketplace" values="IvyIDEA,hibernate,Spring,web" />
+      <project id="marketplace" values="IvyIDEA,Spring,hibernate,web" />
       <project id="contract" values="scala" />
       <project id="twist-tests-with-sahi" values="invalid" />
       <project id="idea-trunk" values="Spring,IvyIDEA,web" />
       <project id="wsf-functional-test" values="Spring" />
       <project id="twist-tests-with-selenium" values="Spring" />
       <project id="marketplace_with_driver" values="Spring" />
-      <project id="global-platform-build" values="web,scala,wicketforge" />
+      <project id="global-platform-build" values="scala,wicketforge,web" />
       <project id="artifact" values="scala" />
       <project id="trunk" values="web" />
       <project id="nomad" values="scala" />
@@ -73,10 +73,10 @@
       <project id="global-platform-build" values="Oracle/Oracle Database 10g Enterprise Edition Release 10.2.0.3.0 - 64bit Production&#10;With the Partitioning  Real Application Clusters  OLAP and Data Mining options" />
     </group>
     <group name="spring">
-      <project id="trunk" values="security_2_0,mvc" />
+      <project id="trunk" values="mvc,security_2_0" />
       <project id="vadim" values="mvc" />
       <project id="twist-tests-with-sahi" values="mvc" />
-      <project id="idea-trunk" values="mvc,security_2_0" />
+      <project id="idea-trunk" values="security_2_0,mvc" />
       <project id="ri3k-build" values="mvc,security_2_0" />
       <project id="global-platform" values="mvc" />
       <project id="same" values="mvc" />
@@ -86,7 +86,7 @@
     </group>
     <group name="run-configuration-type-temporary">
       <project id="global-platform-build" values="JUnit" />
-      <project id="contract" values="JUnit,ScalaTestRunConfiguration,ScalaScriptConsoleRunConfiguration" />
+      <project id="contract" values="ScalaScriptConsoleRunConfiguration,JUnit,ScalaTestRunConfiguration" />
     </group>
     <group name="run-configuration-type">
       <project id="global-platform-build" values="Remote,Application" />
@@ -131,27 +131,19 @@
       <project id="nomad" values="JAVA_MODULE" />
     </group>
     <group name="file-type">
-      <project id="global-platform-build" values="Images,XML,JSP,Scala,JAVA,Drools,HTML,CSS,UNKNOWN,Native,DATASOURCE_STORAGE,Properties,JavaScript,PLAIN_TEXT,SQL" />
-      <project id="process-dsl" values="XML,Scala,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" />
-      <project id="test" values="JAVA,PLAIN_TEXT,XML,UNKNOWN,Properties,Scala,Images" />
-      <project id="contract" values="XML,IDEA_MODULE,UNKNOWN,Scala" />
-      <project id="twist-tests-with-sahi" values="JAVA,UNKNOWN,XML,ARCHIVE,Eclipse,CLASS,PLAIN_TEXT,JavaScript files,Images,Properties,HTML" />
-      <project id="s99" values="UNKNOWN,XML,Scala" />
-      <project id="nomad" values="UNKNOWN,XML,Scala" />
+      <project id="global-platform-build" values="JAVA,DATASOURCE_STORAGE,Properties,Scala,JSP,PLAIN_TEXT,JavaScript,UNKNOWN,Drools,XML,HTML,SQL,Native,CSS,Images" />
+      <project id="process-dsl" values="IDEA_MODULE,Scala,XML,PLAIN_TEXT,UNKNOWN" />
+      <project id="test" values="PLAIN_TEXT,UNKNOWN,Images,XML,Scala,Properties,JAVA" />
+      <project id="contract" values="IDEA_MODULE,UNKNOWN,XML,Scala" />
+      <project id="twist-tests-with-sahi" values="PLAIN_TEXT,JavaScript files,JAVA,ARCHIVE,HTML,Eclipse,XML,UNKNOWN,CLASS,Properties,Images" />
+      <project id="s99" values="Scala,XML,UNKNOWN" />
+      <project id="nomad" values="XML,Scala,UNKNOWN" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="global-platform-build" values="JUnit,Application" />
+      <project id="global-platform-build" values="Application,JUnit" />
       <project id="artifact" values="JUnit" />
       <project id="s99" values="Application" />
       <project id="nomad" values="Application,ScalaScriptRunConfiguration" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="scala-demo" values="DEFAULT" />
-      <project id="global-platform-build" values="DEFAULT" />
-      <project id="vadim" values="DEFAULT" />
-      <project id="rnb" values="DEFAULT" />
-      <project id="s99" values="DEFAULT" />
-      <project id="nomad" values="DEFAULT" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="scala-demo" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
@@ -164,19 +156,27 @@
     <group name="jdbc-driver">
       <project id="global-platform-build" values="oracle.jdbc.OracleDriver" />
     </group>
+    <group name="JavaScript versions">
+      <project id="scala-demo" values="DEFAULT" />
+      <project id="global-platform-build" values="DEFAULT" />
+      <project id="vadim" values="DEFAULT" />
+      <project id="rnb" values="DEFAULT" />
+      <project id="s99" values="DEFAULT" />
+      <project id="nomad" values="DEFAULT" />
+    </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="1" />
       <entry feature="execute.Application.Debug" count="114" />
-      <entry feature="execute.Application.Run" count="241" />
+      <entry feature="execute.Application.Run" count="252" />
       <entry feature="execute.JUnit.Coverage" count="1" />
       <entry feature="execute.JUnit.Debug" count="494" />
       <entry feature="execute.JUnit.JProfiler" count="14" />
-      <entry feature="execute.JUnit.Run" count="1233" />
+      <entry feature="execute.JUnit.Run" count="1235" />
       <entry feature="execute.MavenRunConfiguration.Debug" count="60" />
       <entry feature="execute.MavenRunConfiguration.Run" count="77" />
-      <entry feature="execute.Remote.Debug" count="150" />
+      <entry feature="execute.Remote.Debug" count="152" />
       <entry feature="execute.ScalaScriptConsoleRunConfiguration.Run" count="1" />
       <entry feature="execute.ScalaScriptRunConfiguration.Run" count="13" />
       <entry feature="execute.ScalaTestRunConfiguration.Debug" count="51" />
