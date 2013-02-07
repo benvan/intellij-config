@@ -3,3 +3,4 @@ config/idea*.key
 config/tasks
 config/plugins
 config/componentVersions
+config/ideTalk
